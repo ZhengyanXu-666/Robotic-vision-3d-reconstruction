@@ -1,0 +1,10 @@
+{
+  "timestamp": "20251116_163239",
+  "warp_mode": "perspective",
+  "num_frames": 2,
+  "parameters": {
+    "max_features": 500,
+    "match_ratio": 0.75,
+    "ransac_threshold": 5.0
+  }
+}

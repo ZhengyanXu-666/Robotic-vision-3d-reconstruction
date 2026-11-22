@@ -1,0 +1,8 @@
+custom_image_publisher:
+  ros__parameters:
+    dataset_dir: "calibration_dataset"
+    pattern: "*.jpg"
+    publish_rate_hz: 0.5
+    frame_id: "camera"
+    loop: true
+
